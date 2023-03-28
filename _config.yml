@@ -20,7 +20,7 @@ author: Ashley Matesic
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About The Project: "abouttheproject"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
