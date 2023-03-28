@@ -21,10 +21,10 @@ author: Ashley Matesic
 
 navbar-links:
   About The Project: "abouttheproject"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Project Elements:
+    - Video Analysis: "https://beautifuljekyll.com"
+    - Excel Spreadsheet: "https://www.markdowntutorial.com/"
+    - Graphic Development: "https://deanattali.com"
 
 ################
 # --- Logo --- #
