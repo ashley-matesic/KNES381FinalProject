@@ -21,9 +21,10 @@ author: Ashley Matesic
 
 navbar-links:
   About The Project: "abouttheproject"
-  Video Analysis: "videoanalysis"
-  Excel Spreadsheet: "excelanalysis"
-  Graphic Development: "graphicdevelopment"
+  Project Elements: 
+  - Video Analysis: "videoanalysis"
+  - Excel Spreadsheet: "excelanalysis"
+  - Graphic Development: "graphicdevelopment"
 
 ################
 # --- Logo --- #
