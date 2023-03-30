@@ -21,10 +21,9 @@ author: Ashley Matesic
 
 navbar-links:
   About The Project: "abouttheproject"
-  Project Elements:
-    - Video Analysis: "https://beautifuljekyll.com"
-    - Excel Spreadsheet: "https://www.markdowntutorial.com/"
-    - Graphic Development: "https://deanattali.com"
+  Video Analysis: "https://beautifuljekyll.com"
+  Excel Spreadsheet: "https://www.markdowntutorial.com/"
+  Graphic Development: "https://deanattali.com"
 
 ################
 # --- Logo --- #
