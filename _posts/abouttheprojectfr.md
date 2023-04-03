@@ -3,7 +3,6 @@ layout: post
 title: About the Project
 subtitle: What must be done?
 gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
 comments: true
 ---
 
