@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Interact with the Website
-subtitle: What must be done?
+subtitle: Exploring Recommendations
 gh-repo: daattali/beautiful-jekyll
 comments: true
 ---
