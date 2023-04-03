@@ -6,4 +6,4 @@ gh-repo: daattali/beautiful-jekyll
 comments: true
 ---
 
-This website has different elements of a project that analyses a kinesiology project. Naviagte with the navigation bar at the top right (three lines). It is recommended to start by exploring the Experiment Background, followed by the the Video Analysis tab first, then Excel Analysis. Enjoy!
+This website displays different elements of a project that analyses a kinesiology experiment, including video analysis, excel analysis, and graphic development. Navigate with the navigation bar at the top right (three lines). I recommended to starting by exploring the Experiment Background page, followed by the Video Analysis tab, then Excel Analysis, and finally Graphic Developement. Enjoy!
