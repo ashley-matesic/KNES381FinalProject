@@ -6,7 +6,7 @@ subtitle: Excel as a Tool in Kinesiology
 
 For this project, Excel was used to keep track of the key time points obtained during video analysis. This can be seen on a sample spread sheet of a participant, follow along [here](https://uofc-my.sharepoint.com/:x:/g/personal/ashley_matesic_ucalgary_ca/Ec1sPI2BVBlJshaKqP8PT_QB-jm_y-azlrx6ETv70nkPNQ?e=G5VcWx)(this link expires April 10th). Once the time points were all recorded, they were formated to sync to the force plate data so they could be plotted together, as demonstartedin the following photo. 
 
-![Participant 2 Force Curves](https://github.com/ashley-matesic/KNES381FinalProject/blob/main/assets/img/Participant2Forcegraphs.png){: .mx-auto.d-block :}
+![Participant 2 Force Curves](https://github.com/ashley-matesic/KNES381FinalProject/blob/master/assets/img/Participant2Forcegraphs.png){: .mx-auto.d-block :}
 
 The relative hip drop to hand drop was calculated for each cycle by subtracting hip drop time minus hand drop time, the same was performed for cessation of hips relative to hands. 
 
