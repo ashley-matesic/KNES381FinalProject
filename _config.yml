@@ -20,7 +20,7 @@ author: Ashley Matesic
 ###############################################
 
 navbar-links:
-  About The Project: "abouttheproject"
+  Experiment Background: "experimentbackground"
   Project Elements: 
   - Video Analysis: "videoanalysis"
   - Excel Spreadsheet: "excelanalysis"
