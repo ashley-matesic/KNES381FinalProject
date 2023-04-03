@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Project Background
+title: Experiment Background
 subtitle: What was the set up? What was collected? 
 ---
 
