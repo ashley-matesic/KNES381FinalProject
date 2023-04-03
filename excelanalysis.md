@@ -8,10 +8,6 @@ For this project, Excel was used to keep track of the key time points obtained d
 
 ![Participant 2 Force Curves](https://github.com/ashley-matesic/KNES381FinalProject/blob/master/assets/img/Participant2Forcegraphs.png){: .mx-auto.d-block :}
 
-<a href="https://github.com/ashley-matesic/KNES381FinalProject/blob/master/assets/img/Participant2Forcegraphs.png">Participant 2 Force Curves</a>
-
-<a href="assets/img/Participant2Forcegraphs.png"> Participant 2 Force Curves </a> 
-
 The relative hip drop to hand drop was calculated for each cycle by subtracting hip drop time minus hand drop time, the same was performed for cessation of hips relative to hands. 
 
 Bar graphs were created to demonstrate differences in participants for hip drop initaion, hip drop cessation, mean power per kg of body weight, normal force impulse per kg of body weight and parallel force impusle per kg of body weight. 
