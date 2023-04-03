@@ -14,4 +14,4 @@ Data from each participant was collated onto another excel workbook as seen [her
 
  <img width = 350 src="{{ 'assets/img/Impulses.png' | relative_url }}" alt="Impulses" />
  <img width = 350 src="{{ 'assets/img/Timings.png' | relative_url }}" alt="Timings" />
- <img align = "centre" width = 350 src="{{ 'assets/img/Power.png' | relative_url }}" alt="Power" />
+ <img align = "center" width = 350 src="{{ 'assets/img/Power.png' | relative_url }}" alt="Power" />
