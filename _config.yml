@@ -23,7 +23,7 @@ navbar-links:
   Experiment Background: "experimentbackground"
   Project Elements: 
   - Video Analysis: "videoanalysis"
-  - Excel Spreadsheet: "excelanalysis"
+  - Excel Analysis: "excelanalysis"
   - Graphic Development: "graphicdevelopment"
 
 ################
