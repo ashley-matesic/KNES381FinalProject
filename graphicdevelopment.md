@@ -8,6 +8,6 @@ This page illustrates the setup of the experiment with two graphics, one from a 
 
  <img src="{{ 'assets/img/Birds_Eye.png' | relative_url }}" alt="Birds Eye View of Setup" />
  
- <img width = 800 src="{{ 'assets/img/Side_View.png' | relative_url }}" alt="Side View of Setup" />
+ <img width = 700 src="{{ 'assets/img/Side_View.png' | relative_url }}" alt="Side View of Setup" />
   
   
