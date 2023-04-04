@@ -22,9 +22,9 @@ author: Ashley Matesic
 navbar-links:
   Experiment Background: "experimentbackground"
   Project Elements: 
+  - Graphic Development: "graphicdevelopment"
   - Video Analysis: "videoanalysis"
   - Excel Analysis: "excelanalysis"
-  - Graphic Development: "graphicdevelopment"
 
 ################
 # --- Logo --- #
