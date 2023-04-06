@@ -12,6 +12,6 @@ Once the time points were all recorded, they were formatted to sync to the force
 
 Data from each participant was collated onto another excel workbook as seen [here](https://1drv.ms/x/s!AvXJ6M2Wl3faglZQZQNzFrcqIG9f). This workbook has multiple different sheets, the first sheet summarizes the force, power, and anthropometric data. On the second sheet, bar graphs were created to demonstrate differences between participants and trials for hip drop initiation, hip drop cessation, mean power per kg of body weight, normal force impulse per cycle per kg of body weight, and parallel force impulse per cycle per kg of body weight. These can also be seen below. To accurately compare impulse values between speeds and individuals, they were normalized by body weight and cycles completed per trial. The mean power was also normalized to body weight, these were both completed on the first sheet of the second excel workbook. 
 
- <img width = 350 src="{{ 'assets/img/Impulses.png' | relative_url }}" alt="Impulses" class= "left" />
+ <img width = 350 src="{{ 'assets/img/Impulses.png' | relative_url }}" alt="forces" class= "left" />
  <img width = 350 src="{{ 'assets/img/Timings.png' | relative_url }}" alt="Timings" class= "right" />
  <img width = 350 src="{{ 'assets/img/Power.png' | relative_url }}" alt="Power" class= "center" />
