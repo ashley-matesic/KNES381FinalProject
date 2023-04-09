@@ -4,7 +4,7 @@ title: Graphic Development
 subtitle: Experiment Setup
 ---
 
-This page illustrates the setup of the experiment with two graphics, one from a birds'-eye view (top figure) and another from the perspective where the camera was facing (bottom figure). 
+This page illustrates the setup of the experiment with two graphics, one from a birds'-eye view (top figure) and another from the perspective of where the camera was facing (bottom figure). 
 
 ###### Top-Down View of Testing Setup
  <img src="{{ 'assets/img/Birds_Eye.png' | relative_url }}" alt="Birds Eye View of Setup" />
